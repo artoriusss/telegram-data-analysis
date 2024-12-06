@@ -4,7 +4,7 @@ This repository contains a research project that aims to investigate data collec
 
 ## Installation
 
-To install the required packages, I highly recommend using `uv` for managing a virtual environment and dependencies. If you don't have it installed, you can do so by running:
+To install the required packages, I highly recommend using [`uv`](https://docs.astral.sh/uv/#highlights) for managing a virtual environment and dependencies. `uv` is a modern and super fast package management tool that is very convenient to use. If you don't have it installed, you can do so by running:
 
 ```bash
 curl -LsSf https://astral.sh/uv/install.sh | sh
@@ -13,9 +13,11 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 After that, feel free to clone the repository and install the dependencies:
 
 ```bash
-git clone
+git clone git@github.com:artoriusss/telegram-data-analysis.git
 cd telegram-propaganda-dataset-analysis
 ```
+
+Install the dependencies:
 
 ```bash
 uv sync
