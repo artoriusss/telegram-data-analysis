@@ -14,7 +14,7 @@ After that, feel free to clone the repository and install the dependencies:
 
 ```bash
 git clone git@github.com:artoriusss/telegram-data-analysis.git
-cd telegram-propaganda-dataset-analysis
+cd telegram-data-analysis
 ```
 
 Install the dependencies:
